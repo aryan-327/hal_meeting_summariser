@@ -16,8 +16,6 @@ update the code so that instead of uploading the audio file there should be butt
 
 Act as a Principal Frontend Engineer and Lead UI/UX Designer specialized in defense-industry operational dashboards. Build a complete, single-file (or highly modular, self-contained) production-ready React component with Tailwind CSS for a high-density, aero-military "Command Center" Meeting Summarizer tailored for HAL.
 
-This frontend must connect seamlessly to a local Ollama streaming backend (defaulting to http://localhost:11434/api/generate or /api/chat) and maintain a locked 60 FPS visual performance without typing lag or DOM stutter.
-
 ### 1. TECH STACK REQUIREMENTS
 - Framework: React (with standard Hooks: useState, useEffect, useRef, useMemo)
 - Styling: Tailwind CSS (v3 or v4 compatible)
